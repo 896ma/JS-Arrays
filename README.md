@@ -1,3 +1,3 @@
 # JS-Arrays
-A javascript program to explain array declaration and opeer
+A javascript program to explain array declaration and ope
   
